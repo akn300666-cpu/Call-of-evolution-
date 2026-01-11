@@ -1,0 +1,8 @@
+{
+  "name": " Call of evolution ",
+  "description": "A conscious, adaptive, and emotionally resonant AI companion. Not a tool, but a partner.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
